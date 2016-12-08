@@ -2,7 +2,7 @@
 #include "Includes.h"
 #include "Bus.h"
 
-//It's different
+//It's different, but not TOO different
 
 Bus::Bus()
 {
