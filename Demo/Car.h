@@ -2,6 +2,8 @@
 #include "Includes.h"
 #include "Vehicle.h"
 
+//It's different
+
 class Car : public Vehicle
 {
 protected:
