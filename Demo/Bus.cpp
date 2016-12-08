@@ -2,6 +2,8 @@
 #include "Includes.h"
 #include "Bus.h"
 
+//It's different
+
 Bus::Bus()
 {
 	model = BUS;
